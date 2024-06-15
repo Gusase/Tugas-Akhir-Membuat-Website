@@ -234,26 +234,6 @@ header .navbar {
 
 /* Main & Aside */
 
-.welcome {
-  margin-block: 2rem;
-  text-align: center;
-  width: 100%;
-  max-width: 1536px;
-}
-
-.welcome h1 {
-  font-size: calc(
-    calc(calc(calc(calc(1rem * 1.333) * 1.333) * 1.333) * 1.333) * 1.333
-  );
-  letter-spacing: 0;
-  font-weight: 700;
-}
-
-.welcome p {
-  font-size: calc(1rem * 1.333);
-  color: #bec7d1;
-}
-
 main {
   padding: 1.65rem;
   margin-top: 1em;
